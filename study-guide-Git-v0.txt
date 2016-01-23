@@ -6,6 +6,7 @@ Study Guide
 Versa what?!
 
 What is version control?
+Insurance for when life happens. Important to keep track of your code as it evolves, can track changes and revert if something has gone wrong. Annotate reveisions and group revisions. Can link together with others. 
 
 2
 
@@ -40,7 +41,7 @@ What is a branch?
 
 1
 
-7
+7
 
 The life of a limb
 
@@ -90,7 +91,7 @@ How do you check which branch you presently have checked out?
 
 2
 
-15
+15
 
 Git what?!
 
@@ -141,5 +142,3 @@ If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
 
 3
-
-
