@@ -30,6 +30,7 @@ Version Control allows us to keep a record of all changes made to a project and 
 Committing to git
 
 What is a commit?
+Commit is a command used with git that takes the snapshot you staged with the add command and records them accompanied with your name and email address. Normally a comment is also recorded with a brief synopsis of what you did.
 
 5
 
