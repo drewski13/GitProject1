@@ -37,6 +37,7 @@ Commit is a command used with git that takes the snapshot you staged with the ad
 Checking out git
 
 What is a check out?
+Check out is a command used to switch(or create new) branches in Git. This allows you to move in a new direction while keeping a record of where you were at when the check out command was given. 
 
 6
 
