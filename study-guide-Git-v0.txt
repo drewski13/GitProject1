@@ -22,6 +22,8 @@ Centralized version control keeps a "central" copy of a project somewhere and al
 Versa who?!
 
 What does a version control program do for us?
+Version Control allows us to keep a record of all changes made to a project and the differences between the changes made. It also allows teams to collaborate on projects and work independently on their own systems while contributing to the same project with all changes tracked and owners identified. 
+
 
 4
 
