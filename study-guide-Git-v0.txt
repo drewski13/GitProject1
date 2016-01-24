@@ -53,7 +53,7 @@ A branch is a line of your project with records of each commit. They use a movab
 The life of a limb
 
 How long are branches in git supposed to exist?
-Branches exist until you delete them
+Branches exist until you delete them. if they are inline wtih the master branch (i.e. their pointer points to the same place as the master branch) then they are no longer needed
 
 8
 
@@ -74,6 +74,8 @@ to switch branches in git you use the checkout command coupled with the name of 
 Taping it together
 
 How do you merge branches in git?
+You merge branches with the merge command, naming the branch you would like to merge and being in the branch to merge with. 
+
 
 11
 
