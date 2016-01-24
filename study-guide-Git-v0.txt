@@ -140,6 +140,7 @@ git is different then other version control systems because it is a distributed 
 What were they thinking?!
 
 What were the design criteria for git?
+the design criteria for git were speed, simple design, strong support for non-linear development, fully distributed, and able to handle large projects like the Linux kernel.
 
 20
 
