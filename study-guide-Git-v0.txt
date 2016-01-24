@@ -112,6 +112,7 @@ you can look at the current branch checked out by the git "status" command
 Git what?!
 
 What is github?
+github is a web-based git repository hosting service 
 
 16
 
