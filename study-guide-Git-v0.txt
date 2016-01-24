@@ -44,6 +44,7 @@ Check out is a command used to switch(or create new) branches in Git. This allow
 It’s like a tree limb
 
 What is a branch?
+A branch is a line of your project with records of each commit. They use a movable pointer between commits.
 
 1
 
