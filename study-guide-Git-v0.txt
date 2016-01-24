@@ -126,6 +126,7 @@ git was created because the relationship between BitKeeper and the Linux develop
 A day in the life of git
 
 What is a typical git workflow?
+git-flow is popular. it essentially consists of a main "develop" branch with hotfix, feature, and release branches breaking off individually which will later always be merged back into the develop branch. 
 
 18
 
