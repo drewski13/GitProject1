@@ -37,14 +37,14 @@ Commit is a command used with git that takes the snapshot you staged with the ad
 Checking out git
 
 What is a check out?
-Check out is a command used to switch(or create new) branches in Git. This allows you to move in a new direction while keeping a record of where you were at when the check out command was given. 
+Check out is a command used to switch(or create new) branches in Git. This allows you to move in a new direction while keeping a record of where you were at when the check out command was given. copy a version from the repository (such as if you were to create a branch).
 
 6
 
 It’s like a tree limb
 
 What is a branch?
-A branch is a line of your project with records of each commit. They use a movable pointer between commits.
+A branch is a line of your project with records of each commit. They use a movable pointer between commits. work on the side, like a big fix or new feature.
 
 1
 
@@ -53,6 +53,7 @@ A branch is a line of your project with records of each commit. They use a movab
 The life of a limb
 
 How long are branches in git supposed to exist?
+Branches exist until you delete them
 
 8
 
