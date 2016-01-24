@@ -67,6 +67,7 @@ Use the branch command (with a name you would like to name it) to create a branc
 Swinging on a vine
 
 How do you switch branches in git?
+to switch branches in git you use the checkout command coupled with the name of the branch you would like to switch to.
 
 10
 
