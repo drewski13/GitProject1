@@ -82,6 +82,7 @@ You merge branches with the merge command, naming the branch you would like to m
 Status
 
 How do you check the status of the files you are presently working on?
+To check the status of the files you are currently working on you use the "status" command with will tell you which branch you are currently on, if files being tracked have been modified, if their are untracked files, or if files are staged(ready to commit).
 
 12
 
