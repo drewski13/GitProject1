@@ -147,6 +147,7 @@ the design criteria for git were speed, simple design, strong support for non-li
 Time machine
 
 How do we view the past of a project with git?
+To view the history of a project the git "log" command will display all commits with there respective author, email, date of change, comment, and hex number
 
 21
 
