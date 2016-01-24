@@ -119,6 +119,7 @@ github is a web-based git repository hosting service
 We see a need!
 
 Why was git created?
+git was created because the relationship between BitKeeper and the Linux development community broke down and the tools free-of-charge status was revoked. So they developed their own version control system
 
 17
 
