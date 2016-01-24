@@ -155,6 +155,7 @@ Commit Comment
 
 How much information, and what kind of information should be in a commit
 message?
+a git commit message should be a concise message containing what you did and why. if more than a subject line is needed then after a blank line you can write a body but should still be concise.
 
 22
 
