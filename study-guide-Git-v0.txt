@@ -14,6 +14,8 @@ Where the heart is
 
 What is the difference between distributed and centralized version control
 systems?
+Centralized version control keeps a "central" copy of a project somewhere and all the changes are made to this copy and stored in the same place. Distributed version control allows everyone working on a project to "clone" an entire repository so as to keep the full history of the project on their computer.
+
 
 3
 
