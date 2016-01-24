@@ -133,6 +133,7 @@ git-flow is popular. it essentially consists of a main "develop" branch with hot
 Why git?
 
 What makes git different than other version control systems?
+git is different then other version control systems because it is a distributed system with each computer having the whole repository contained within.
 
 19
 
