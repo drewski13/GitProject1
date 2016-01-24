@@ -103,6 +103,7 @@ The primary branch in git is named master.
 What limb are you on?
 
 How do you check which branch you presently have checked out?
+you can look at the current branch checked out by the git "status" command 
 
 2
 
