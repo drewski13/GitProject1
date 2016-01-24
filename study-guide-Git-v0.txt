@@ -163,5 +163,6 @@ Great Scott!
 
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
+To correct a mistake in the project you can use the "amend" command which overwrites the previous commit. Also you can unmodify a modified file with the "checkout -- filename" to revert it back to what it looked like when you last committed.
 
 3
