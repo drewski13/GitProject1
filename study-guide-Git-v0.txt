@@ -60,6 +60,7 @@ Branches exist until you delete them
 Tree growth
 
 How do you create a branch in git?
+Use the branch command (with a name you would like to name it) to create a branch and the checkout command to switch to it.
 
 9
 
