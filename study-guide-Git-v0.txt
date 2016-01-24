@@ -96,6 +96,7 @@ Use the "add" command to add files to the repository. the "commit" command will 
 The main line
 
 What is the name for the primary branch in git?
+The primary branch in git is named master.
 
 14
 
